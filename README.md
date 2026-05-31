@@ -1,4 +1,4 @@
-#IoT Plant Environment Management System [PEMS]
+# IoT Plant Environment Management System [PEMS]
 
 An ESP8266-based IoT automation prototype designed for smart plant environment control using a responsive web dashboard and real-time relay management.
 
@@ -32,7 +32,7 @@ The system allows users to control plant lighting, water supply, and environment
 4. JavaScript
 5. ESPAsyncWebServer Library
 
-#Android Application
+# Android Application
 To improve accessibility and user experience, a dedicated Android application was developed for the PEMS ecosystem. The mobile application allows users to:
 1. Connect directly to the ESP8266 local server
 2. Access the control dashboard without manually typing the IP address
@@ -66,6 +66,17 @@ PEMS now supports multiple control platforms:
 | Windows Application | Desktop Monitoring |
 | ESP8266 Server | Core IoT Controller |
 This creates a flexible multi-platform IoT ecosystem for smart environmental management.
+
+# ESP8266 NodeMCU Pinout
+# Circuit Schematic Diagram
+# Top and Bottom Layer PCB Designing
+# PCB 2D View
+# USB to TTL Interface Header
+# Web UI in Desktop Browser
+# Web UI Activation Dashboard in Desktop Browser
+# Windows App UI
+# Android Mobile App UI
+# Web, PC, and Android App also in Black Theme by Toggle the Moon Icon
 
 # Future Expansion Goals
 Planned future developments include:
