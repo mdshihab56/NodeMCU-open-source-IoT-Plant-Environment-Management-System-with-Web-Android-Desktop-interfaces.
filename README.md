@@ -1,4 +1,5 @@
 # IoT Plant Environment Management System [PEMS]
+<img width="2667" height="1335" alt="PEMS Resperitory template " src="https://github.com/user-attachments/assets/78ccacdc-fb58-438e-90ce-9f4665d619f2" />
 
 An ESP8266-based IoT automation prototype designed for smart plant environment control using a responsive web dashboard and real-time relay management.
 
