@@ -1,0 +1,194 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  transition:
+    background-color 0.3s,
+    color 0.3s;
+}
+
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+body.light-mode {
+  background-color: #f0f0f0;
+  color: #000000;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+#login {
+  margin-top: 80px;
+}
+
+#panel {
+  display: none;
+  margin-top: 40px;
+}
+
+button {
+  padding: 12px 20px;
+  margin: 5px;
+  font-size: 16px;
+  background-color: #1e1e1e;
+  color: #fff;
+  border: 1px solid #444;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+body.light-mode button {
+  background-color: #e0e0e0;
+  color: #000;
+  border: 1px solid #aaa;
+}
+
+button:hover {
+  background-color: #333;
+}
+
+body.light-mode button:hover {
+  background-color: #ccc;
+}
+
+input {
+  padding: 10px;
+  margin: 5px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid #444;
+  background-color: #1e1e1e;
+  color: #fff;
+}
+
+body.light-mode input {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #aaa;
+}
+
+/* Floating Input Style */
+.input-box {
+  position: relative;
+  width: 260px;
+  margin: 14px auto;
+}
+
+.input-box input {
+  width: 100%;
+  padding: 14px 10px 10px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid #444;
+  background-color: #1e1e1e;
+  color: #fff;
+  outline: none;
+  box-sizing: border-box;
+}
+
+body.light-mode .input-box input {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #aaa;
+}
+
+.input-box label {
+  position: absolute;
+  left: 12px;
+  top: 13px;
+  color: #888;
+  font-size: 16px;
+  pointer-events: none;
+  transition: 0.25s ease;
+}
+
+.input-box input:focus + label,
+.input-box input:not(:placeholder-shown) + label {
+  top: -5px;
+  left: 10px;
+  font-size: 12px;
+  padding: 0 4px;
+  background-color: #121212;
+  color: #00bfff;
+}
+
+body.light-mode .input-box input:focus + label,
+body.light-mode .input-box input:not(:placeholder-shown) + label {
+  background-color: #f0f0f0;
+  color: #0077cc;
+}
+
+.input-box input:focus {
+  border-color: #00bfff;
+}
+
+.card {
+  display: inline-block;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 10px;
+  width: 250px;
+  background-color: #1e1e1e;
+  border: 1px solid #444;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.05);
+}
+
+body.light-mode .card {
+  background-color: #ffffff;
+  border: 1px solid #aaa;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
+}
+
+.footer {
+  margin-top: 100px;
+  padding: 20px;
+  font-size: 14px;
+  color: #aaa;
+}
+
+body.light-mode .footer {
+  color: #333;
+}
+
+.footer b {
+  color: #fff;
+}
+
+body.light-mode .footer b {
+  color: #000;
+}
+
+#modeToggle {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  padding: 8px 14px;
+  font-size: 14px;
+  border-radius: 6px;
+  border: 1px solid #444;
+  background-color: #1e1e1e;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  z-index: 9999;
+}
+
+body.light-mode #modeToggle {
+  background-color: #e0e0e0;
+  color: #000;
+  border: 1px solid #aaa;
+}
+
+#modeToggle:hover {
+  background-color: #333;
+}
+
+body.light-mode #modeToggle:hover {
+  background-color: #ccc;
+}
