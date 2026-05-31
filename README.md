@@ -50,7 +50,7 @@ A standalone Windows desktop application was also developed using Python for des
 4. Lightweight executable (.exe) application
 5. No browser dependency required
 
-##Programs used
+## Programs used
 1. Python
 2. GUI-based desktop interface
 3. Executable packaging for Windows systems
@@ -67,16 +67,38 @@ PEMS now supports multiple control platforms:
 | ESP8266 Server | Core IoT Controller |
 This creates a flexible multi-platform IoT ecosystem for smart environmental management.
 
-# ESP8266 NodeMCU Pinout
-# Circuit Schematic Diagram
-# Top and Bottom Layer PCB Designing
-# PCB 2D View
-# USB to TTL Interface Header
-# Web UI in Desktop Browser
-# Web UI Activation Dashboard in Desktop Browser
-# Windows App UI
-# Android Mobile App UI
-# Web, PC, and Android App also in Black Theme by Toggle the Moon Icon
+## ESP8266 NodeMCU Pinout
+<img width="1920" height="1080" alt="ESP8266 PINOUT" src="https://github.com/user-attachments/assets/daea9ed2-2653-4520-b5db-50cbbf4182c7" />
+
+## Circuit Schematic Diagram
+<img width="3996" height="2250" alt="SCHEMATICS" src="https://github.com/user-attachments/assets/ac08b77e-e000-43af-92d2-158115cb7abf" />
+
+## Top and Bottom Layer PCB Designing
+<img width="1920" height="1080" alt="PCB 2D VIEW" src="https://github.com/user-attachments/assets/50187cda-036a-488f-aab8-d32bba6bf488" />
+<img width="1920" height="1080" alt="TOP AND BOTTOM LATER PCB" src="https://github.com/user-attachments/assets/e1493fd1-b8bd-4efb-a224-8fbf77c24c48" />
+
+## PCB 2D View
+<img width="1920" height="1080" alt="PCB 2D VIEW" src="https://github.com/user-attachments/assets/e3f70eeb-715e-4fac-b2eb-c3a42a9c298d" />
+
+
+## USB to TTL Interface Header
+<img width="4000" height="2250" alt="USB TO TTL" src="https://github.com/user-attachments/assets/28a78492-252b-4d3c-aa23-e2a58deb13c6" />
+
+## Web UI in Desktop Browser
+<img width="4000" height="2250" alt="WEB IP UI" src="https://github.com/user-attachments/assets/40cb26dc-bde4-4591-ac91-b86d5a1ef0f9" />
+
+## Web UI Activation Dashboard in Desktop Browser
+<img width="1920" height="1080" alt="WEB IP UI_ACTIVATION SYSTEM" src="https://github.com/user-attachments/assets/112df334-3c69-47f8-8d34-f0306d188244" />
+
+## Windows App UI
+<img width="4000" height="2250" alt="WINDOWS APP UI" src="https://github.com/user-attachments/assets/a6f970e1-1463-43ff-8ba0-ac75174eee10" />
+
+## Android Mobile App UI
+<img width="4045" height="2250" alt="MOBILE APP UI" src="https://github.com/user-attachments/assets/0e981ae1-bcd3-4376-9462-eb582b41bd87" />
+
+## Web, PC, and Android App also in Black Theme by Toggle the Moon Icon
+<img width="4000" height="2250" alt="WEB, PC and MOBILE APP black theme UI" src="https://github.com/user-attachments/assets/b63df10f-287c-4f90-bb09-632eb0e03061" />
+
 
 # Future Expansion Goals
 Planned future developments include:
