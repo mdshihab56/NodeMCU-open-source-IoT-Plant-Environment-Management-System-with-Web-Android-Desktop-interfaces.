@@ -32,7 +32,7 @@ The system allows users to control plant lighting, water supply, and environment
 4. JavaScript
 5. ESPAsyncWebServer Library
 
-# Android Application
+## Android Application
 To improve accessibility and user experience, a dedicated Android application was developed for the PEMS ecosystem. The mobile application allows users to:
 1. Connect directly to the ESP8266 local server
 2. Access the control dashboard without manually typing the IP address
@@ -40,7 +40,7 @@ To improve accessibility and user experience, a dedicated Android application wa
 4. Improve usability for daily plant monitoring operations
 The Android application acts as a lightweight remote controller for the IoT system over a local Wi-Fi network.
 
-# Windows Desktop Application
+## Windows Desktop Application
 A standalone Windows desktop application was also developed using Python for desktop-based monitoring and control.
 
 ### Desktop Application Features
@@ -56,7 +56,7 @@ A standalone Windows desktop application was also developed using Python for des
 3. Executable packaging for Windows systems
 The desktop application was designed to provide a more convenient control environment for long-term monitoring and testing purposes.
 
-# Multi-Platform Ecosystem
+## Multi-Platform Ecosystem
 PEMS now supports multiple control platforms:
 
 | Platform | Function |
@@ -101,7 +101,7 @@ This creates a flexible multi-platform IoT ecosystem for smart environmental man
 <img width="4000" height="2250" alt="WEB, PC and MOBILE APP black theme UI" src="https://github.com/user-attachments/assets/b63df10f-287c-4f90-bb09-632eb0e03061" />
 
 
-# Future Expansion Goals
+## Future Expansion Goals
 Planned future developments include:
 1. Real-time sensor analytics
 2. Cloud connectivity
