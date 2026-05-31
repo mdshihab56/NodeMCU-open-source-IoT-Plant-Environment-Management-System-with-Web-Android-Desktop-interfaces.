@@ -74,7 +74,8 @@ This creates a flexible multi-platform IoT ecosystem for smart environmental man
 <img width="3996" height="2250" alt="SCHEMATICS" src="https://github.com/user-attachments/assets/ac08b77e-e000-43af-92d2-158115cb7abf" />
 
 ## Top and Bottom Layer PCB Designing
-<img width="1920" height="1080" alt="PCB 2D VIEW" src="https://github.com/user-attachments/assets/50187cda-036a-488f-aab8-d32bba6bf488" />
+<img width="1920" height="1080" alt="TOP AND BOTTOM LATER PCB" src="https://github.com/user-attachments/assets/ae3f69b5-c2aa-4233-baa5-9d2b91558241" />
+
 
 
 ## PCB 2D View
